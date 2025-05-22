@@ -14,7 +14,7 @@ This project implements the **Apriori algorithm** for **Association Rule Learnin
 
 ## Displaying the results sorted by descending lifts
 
-![Image](https://github.com/user-attachments/assets/7868121d-f5df-49aa-b23a-947b41daf4b6)
+![Image](https://github.com/user-attachments/assets/48217e8d-083c-4b34-b196-0dfe079c3109)
 
 ## 🚀 Getting Started
 
