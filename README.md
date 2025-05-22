@@ -1,6 +1,6 @@
 # Apriori Algorithm – Market Basket Optimization 🛒
 
-This project implements the **Apriori algorithm** for **Association Rule Learning** on a retail dataset to identify patterns in customer purchases. The output is a list of frequent itemsets and strong association rules that can help in optimizing product placements and recommendations.
+This project implements the **Apriori algorithm** for **Association Rule Learning** on a retail dataset to identify patterns in customer purchases. The output is a list of frequent itemsets and strong association rules that can help in optimizing product placements and recommendations. **This project can be easily adapted to work with other datasets** containing different or additional independent variables.
 
 ---
 
