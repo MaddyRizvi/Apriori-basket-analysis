@@ -17,8 +17,8 @@ This project implements the **Apriori algorithm** for **Association Rule Learnin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/MaddyRizvi/Apriori-basket-analysis.git
+cd Apriori-basket-analysis
 ```
 
 ### 2. Install Dependencies
@@ -38,15 +38,15 @@ pip install apyori pandas matplotlib numpy
 Make sure your dataset is in the correct format, then run:
 
 ```bash
-python apriori_analysis.py
+python apriori.py
 ```
 
 ---
 
 ## 📁 Repository Structure
 
-- `apriori_analysis.py` – Main script to execute Apriori on transaction data
-- `transactions.csv` – Input dataset (if provided)
+- `apriori.py` – Main script to execute Apriori on transaction data
+- `Market_Basket_Optimisation.csv` – Input dataset (if provided)
 - `README.md` – Project overview and setup instructions
 - `CONTRIBUTING.md` – Guidelines for contributors
 
